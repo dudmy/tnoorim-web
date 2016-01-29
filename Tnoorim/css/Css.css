@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+
+body {
+	font-family: Helvetica, 'Jeju Gothic', Arial, sans-serif;
+	font-weight: normal;
+	margin: 0pt;
+}
+
+
+a:link {
+	font-size: 11pt;
+	text-decoration: none;
+	color: #353535;
+}
+
+
+a:visited {
+	font-size: 11pt;
+	text-decoration: none;
+	color: #353535;
+}
+
+
+a:hover {
+	font-size: 11pt;
+	text-decoration: none;
+	color: #a92020;
+}
+
+
+input {
+	font-size: 11pt;
+	word-spacing: -1px;
+	border: 1px solid #353535;
+	margin: 1px;
+	padding: 1px;
+	color: #353535;
+}

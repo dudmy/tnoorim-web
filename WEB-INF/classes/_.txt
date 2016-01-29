@@ -1,0 +1,27 @@
+cd C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\WEB-INF\classes
+
+javac -d . -Xlint DBConnectionMgr.java
+
+javac -d . BuyBean.java
+
+javac -d . CafeBean.java
+
+javac -d . EventBean.java
+
+javac -d . MemberBean.java
+
+javac -d . MenuBean.java
+
+javac -d . VisitorBean.java
+
+javac -d . -Xlint BuyMgr.java
+
+javac -d . -Xlint CafeMgr.java
+
+javac -d . -Xlint EventMgr.java
+
+javac -d . -Xlint MemberMgr.java
+
+javac -d . -Xlint MenuMgr.java
+
+javac -d . -Xlint VisitorMgr.java
